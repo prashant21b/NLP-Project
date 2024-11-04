@@ -1,0 +1,12 @@
+streamlit
+PyPDF2
+python-docx
+pandas
+transformers
+torch
+google-generativeai
+pathlib
+tempfile
+dataclasses
+typing-extensions
+difflib
